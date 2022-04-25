@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Fox Creek Park</name>
+    <description>111 Ivanhoe Drive, Swannanoa, NC 28778 USA</description>
+    <StyleMap id="line-000000-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Rough Center of Park</name>
+      <description>center</description>
+      <Point>
+        <coordinates>-82.38828,35.6088,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rough Park Outline</name>
+      <styleUrl>#line-000000-1200-nodesc</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -82.3877954,35.6087728,0
+              -82.3880811,35.6079267,0
+              -82.3883694,35.6080466,0
+              -82.3885545,35.6082472,0
+              -82.3885505,35.608486,0
+              -82.3886262,35.6087536,0
+              -82.3886323,35.6090213,0
+              -82.3887007,35.6091652,0
+              -82.388645,35.6093713,0
+              -82.3886323,35.6095774,0
+              -82.3878277,35.6093812,0
+              -82.388018,35.6088316,0
+              -82.3877954,35.6087728,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
