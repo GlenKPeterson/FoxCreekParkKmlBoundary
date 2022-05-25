@@ -21,3 +21,12 @@ https://foxcreekpark.org/
 
 KML FAQ:
 https://developers.google.com/kml/faq
+
+## Change Log
+
+### 2022-05-25: "Plus 3 Meters"
+Added approximately 3 meters to the border for GPS inaccuracy at Allen's request.
+This is no longer intended to represent the boundaries of the park, but just to make
+any observations made within the margin of GPS accuracy of the park show up in the park's project.
+Apologies to any neighbors who are posting their yard-life to iNaturalist and don't want it to appear as part of the park.
+If you are such a neighbor, and are bothered, please let us know so we can do something to accommodate you.
